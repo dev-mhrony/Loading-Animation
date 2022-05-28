@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Italianno&family=Roboto:wght@300;400;500;700;900&display=swap');
+
+body{
+    font-family: 'Roboto', sans-serif;
+    background: rgb(10, 0, 20);
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.loading{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.percent{
+    color: rgb(243, 1, 118);
+    font-size: 100px;
+    font-weight: 400;
+    text-align: center;
+}
