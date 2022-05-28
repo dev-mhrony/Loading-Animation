@@ -23,3 +23,8 @@ body{
     font-weight: 400;
     text-align: center;
 }
+
+.progress-bar{
+    width: 406px;
+    height: 21px;
+}
